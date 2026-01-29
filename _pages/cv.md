@@ -15,14 +15,40 @@ redirect_from:
 
 Scholastic
 ======
-* Campion School, 10th Grade, 2019
-* PACE Junior Science College, 11th and 12th Grade, 2021
 * Indian Institute of Science Education and Research Mohali, B.Sc + Integrated M.Sc in Physics, 2026 (expected)
 
 Projects
 ======
+* Summer 2025 onwards: **Studying Negative Group Velocity in a Cold Atom Ensemble**
+  * _Supervisor: Dr. Mathilde Hugbart- Rb1 team, Cold Atoms group at Institut de Physique de Nice (INPHYNI), France_
+  * Assisted in the analysis and physical demonstration of negative group velocity in a Rubidium-85 cold atom setup.
+    * Performed literature review of results observed in different mediums and conditions.
+    * Programming work included modelling the pulse reshaping after distortion by the atomic cloud, and determining the ideal experimental parameters required for the setup.
+    * Theoretical work included deriving expressions for group velocity and refractive index with respect to setup parameters.
+    * Implemented a saturation absorption spectroscopy setup (for training purposes)
+    * Tested optical components (AOM and EOM) to determine the best approach for generating optical pulses in the setup.
+   
+* Summer 2024: **Physical Implementations of Quantum Key Distribution Protocols**
+  * _Supervisor: Professor Varun Raghunathan, Indian Institute of Science (IISc), India_
+  * Project consisted of analysis and physical implementation of the T-12 protocol and the MDI-QKD protocol.
+    * Theoretical aspects included analysis of BB-84, T-12,MDI-QKD protocols, SKR and QBER analysis, analysis of physical components used, characterization of beamsplitter operations, and characterization of single photon and coherent pulses.
+    * Programming work included streamlining the instruments' calibration processes, SKR and QBER analysis for T-12 protocol, and analysis of MDI-QKD scenarios.
+    * Practical work included running the setup (for T-12 protocol and MDI-QKD protocol) for calibration purposes and for obtaining real-time experimental data.
+  * [Project report and code](https://github.com/ArnavMetrani/QKD_Report-Public)
+
+ <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/QKD Report_Public.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>   
+
+
+* Summer 2023: **Introduction to Quantum Algorithms and Quantum Error Correction**
+  * _Supervisor: Professor Kuntal Roy, Indian Institute of Science Education and Research Bhopal (IISER-Bhopal)[Online], India_ 
+  * Project comprised of basic theory of Quantum Computing and studying various aspects such as various Quantum Algorithms, Quantum Error Correction Algorithms, and applications of Quantum Fourier Transform. Project included writing and executing the above quantum circuits on IBM-Q (through Qiskit).
+  * [Project report and code](https://github.com/ArnavMetrani/Quantum-Algorithms-report)
+ 
+<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/QuantumAlgorithmsArnavMetrani.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+
+
 * Summer 2023: **Introduction to Special Relativity and Analysis**
-  * _Supervisor: Professor Jasjeet Singh Bagla, IISER-Mohali_
+  * _Supervisor: Professor Jasjeet Singh Bagla, Indian Institute of Science Education and Research Mohali, (IISER-Mohali), India_
   * Project comprised of Lorentz transforms, Minkowski geometry analysis, paradoxes, four-vector formulation, analysis of accelerating frames including Rindler frames, electrodynamic effects and optical effects.
   * References:
       * “Special Relativity for Beginners: A book for Undergraduates” by J. Freund
@@ -33,46 +59,26 @@ Projects
       * Scott, G. D., and M. R. Viner. “The Geometrical Appearance of Large Objects Moving at Relativistic Speeds.” American Journal of Physics 33, no. 7 (July 1, 1965): 534–36. [https://doi.org/10.1119/1.1971890](https://doi.org/10.1119/1.1971890).  
       * [“Differing observations on the landing of the rod into the slot” by Chandru Iyer and G. M. Prabhu](https://doi.org/10.1119/1.2346686)
       * Ferraro, Rafael, and Marc Thibeault. “Generic Composition of Boosts: An Elementary Derivation of the Wigner Rotation.” European Journal of Physics 20, no. 3 (May 1, 1999): 143–51. [https://doi.org/10.1088/0143-0807/20/3/003](https://doi.org/10.1088/0143-0807/20/3/003).
-
-* Summer 2023: **Introduction to Quantum Algorithms and Quantum Error Correction**
-  * _Supervisor: Professor Kuntal Roy, IISER-Bhopal_ 
-  * Project comprised of basic theory of Quantum Computing and studying various aspects such as various Quantum Algorithms, Quantum Error Correction Algorithms, and applications of Quantum Fourier Transform. Project included writing and executing the above quantum circuits on IBM-Q (through Qiskit).
-  * [Project report and code](https://github.com/ArnavMetrani/Quantum-Algorithms-report)
  
-<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/QuantumAlgorithmsArnavMetrani.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
-
-* Summer 2024: **Physical Implementations of Quantum Key Distribution Protocols**
-  * _Supervisor: Professor Varun Raghunathan, IISc_
-  * Project consisted of analysis and physical implementation of the T-12 protocol and the MDI-QKD protocol.
-    * Theoretical aspects included analysis of BB-84, T-12,MDI-QKD protocols, SKR and QBER analysis, analysis of physical components used, characterization of beamsplitter operations, and characterization of single photon and coherent pulses.
-    * Programming work included streamlining the instruments' calibration processes, SKR and QBER analysis for T-12 protocol, and analysis of MDI-QKD scenarios.
-    * Practical work included running the setup (for T-12 protocol and MDI-QKD protocol) for calibration purposes and for obtaining real-time experimental data.
-  * [Project report and code](https://github.com/ArnavMetrani/QKD_Report-Public)
-
- <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/QKD Report_Public.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>   
-
-Programming Skills
+Other activities
 ======
-* Python
-* Mathematica
-* LabVIEW
-  
- 
-Extracurricular
-======
+* Attended Quantazur Days 2025 in Nice [(PDF)](https://univ-cotedazur.fr/medias/fichier/programquantazurdays2025_1762958636841-pdf?ID_FICHE=110142&INLINE=FALSE)
 * Ex Co-convener of IISER Mohali's Physics Club
-* Participated in IISER-M Foundation Day 2022 and 2023
+  * Demonstrations in IISER-M Foundation Day 2023, organiser for physics club in 2024 edition.
+  * Workshops on Special Relativity, QCQI, CV and Email writing, and PhD applications.
+  * 10 talks incl. a panel on Summer Internships.
+  * Hosted Grand Canonical Ensemble (Physics Week 2023)
 * Member of citizen research organization Zooniverse
 * Participated in NASA GLOBE CLOUD CHALLENGE 2022 with CLOUD GAZE
-* Blog on STEM related topics
+* Blog on STEM related topics [(link)](https://lambency.substack.com)
 
 Courses taken
 ======
-* Physics: Introduction to Mechanics, Introduction to Electromagnetism, Waves and Optics, Thermodynamics, Quantum Mechanics, Electrodynamics, Classical Mechanics, Differential Equations, Advanced QM, Statistical Mechanics, Foundational QM, Solid State, Nuclear Physics, Atomic and Molecular Physics, QCQI
+* Physics: Introduction to Mechanics, Introduction to Electromagnetism, Waves and Optics, Thermodynamics, Quantum Mechanics, Electrodynamics, Classical Mechanics, Differential Equations, Advanced QM, Statistical Mechanics, Foundational QM, Solid State, Nuclear Physics, Atomic and Molecular Physics, QCQI, Nonlinear Optics, General Relativity, Physics of Fluids, Introduction to Quantum Optics 
 * Mathematics: Introduction to Group Theory, Real Analysis in One variable, Introduction to Differential Geometry, Introduction to Differential Equations, Probability Theory, Theory of Computation, Linear Algebra and Group Theory
-* Labwork: PHY312- Logic gates, flip flops, registers and counters, clock circuits, and programming with Arduino
+* Electronics: PHY312- Logic gates, flip flops, registers and counters, clock circuits, and programming with Arduino
 
-Papers and articles studied
+Assortment of articles studied 
 ======
 * Padgett, Miles J., and Robert W. Boyd. “An Introduction to Ghost Imaging: Quantum and Classical.” Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 375, no. 2099 (August 6, 2017): 20160233. [https://doi.org/10.1098/rsta.2016.0233](https://doi.org/10.1098/rsta.2016.0233)
 * Elitzur, Avshalom C., and Lev Vaidman. “Quantum Mechanical Interaction-Free Measurements.” Foundations of Physics 23, no. 7 (July 1993): 987–97. [https://doi.org/10.1007/BF00736012](https://doi.org/10.1007/BF00736012)
