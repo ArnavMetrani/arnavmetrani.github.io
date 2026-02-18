@@ -15,7 +15,7 @@ redirect_from:
 
 Scholastic
 ======
-* Indian Institute of Science Education and Research Mohali, B.Sc + Integrated M.Sc in Physics, 2026 (expected)
+* Indian Institute of Science Education and Research Mohali, BSMS in Physics, 2026 (expected)
 
 Projects
 ======
