@@ -10,6 +10,7 @@ location: "Mohali, India"
 Presented a 30 minute presentation as part of the PHY660 course, where I covered by attempts in simulating self-focusing in nonlinear optics. Click to see slides and future development.
 
 See below for the slides used for the presentation. I am working on extending the code, you can access in here: [NLO repository](https://github.com/ArnavMetrani/Self-Focusing).
+
 **Slides:**
 
 [PDF Version](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/NLO_Presentation.pdf)
