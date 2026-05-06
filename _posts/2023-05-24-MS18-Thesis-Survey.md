@@ -82,12 +82,10 @@ Use the quicklinks below:
 **Why did you decide to choose this topic/problem for your thesis?**  
 *Astrophysics has been my field of choice, and I was motivated to choose something in Cosmology after the very difficult course in Relativistic Cosmology (PHY663). Dr. Jassal was willing to offer a thesis where my work would not be in the more difficult early universe portion, but more towards things like optimization of the parameters that describe how our universe evolved.*
 
-
 **How did you go about learning and researching for your thesis?**  
 *Long searches on google scholar, google, and whenever I hit a roadblock in my code I always had StackExchange as a go-to.*
 
-**Do you plan to continue working on your thesis topic in the future, or changing to something else?**
-
+**Do you plan to continue working on your thesis topic in the future, or changing to something else?**  
 *I am planning on doing some more work to see this through to its conclusion because Dr. Jassal is interested in a paper on this topic and I want to clean up any last mistakes in the code and disagreements in the theory.*
 
 **How can one learn more about work related to your thesis?**  
@@ -95,16 +93,13 @@ Use the quicklinks below:
 
 [To start of project↑](#cosmological-data-analysis)  
 [To main section↑](#astrophysics-and-cosmology)
-
+--
 ## Dark Matter
 
-**Title**: WIMP decay as possible WDM model [(Poster)]()
-
+**Title**: WIMP decay as possible WDM model [(Poster)]()  
 **Name**: Abineet Parichha (MS18094)  
-
 **Local Thesis Guide**: Dr. Harvinder Kaur Jassal  
-
-**External Guide**: Dr. Shiv K Sethi (RRI Bangalore)
+**External Guide**: Dr. Shiv K Sethi (RRI Bangalore)  
 
 **Brief explanation**:  
 *Given the discrepancies between CDM N body simulations and observations and the lack of detection of WIMP (one of the strongest CDM particle candidate), we are motivated to consider the decay of WIMP into lighter warmer dark matter particles and radiation. We build the linear perturbation theory pertaining to this model and test its consequences on the structure formation in our universe using Planck 2018 CMB, BOSS (BAO) and SDSS (Lyman alpha) neutral hydrogen data sets. We compute constraints on properties of the dark matter particle like its mass and cross-section and discuss its implications on dark matter searches.*
