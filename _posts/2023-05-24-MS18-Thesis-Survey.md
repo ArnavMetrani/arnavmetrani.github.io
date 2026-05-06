@@ -98,7 +98,9 @@ Use the quicklinks below:
 
 [To start of project↑](#cosmological-data-analysis)  
 [To main section↑](#astrophysics-and-cosmology)  
+
 ---  
+
 ## Dark Matter
 
 **Title**: WIMP decay as possible WDM model [(Poster)]()  
@@ -112,11 +114,13 @@ Use the quicklinks below:
 [To start of project↑](#dark-matter)  
 [To main section↑](#astrophysics-and-cosmology)
 
+---
+
 ## Exoplanets
 
-**Title**: To mitigate the effect of moonlight contamination in spectroscopic searches for extrasolar planets [(Poster)]()
-**Name**: Komal Bali (MS18192)  
-**Local Thesis Guide**: Prof. Jasjeet Singh Bagla  
+**Title**: To mitigate the effect of moonlight contamination in spectroscopic searches for extrasolar planets [(Poster)]()  
+**Name**: Komal Bali (MS18192)    
+**Local Thesis Guide**: Prof. Jasjeet Singh Bagla   
 **External Guide**: Dr. Joe Philip Ninan
 
 **Brief explanation**:  
@@ -138,12 +142,14 @@ Use the quicklinks below:
 [To start of project↑](#exoplanets)  
 [To main section↑](#astrophysics-and-cosmology)
 
+---
+
 ## Galactic Disk Morphology
 
-**Title**: Understanding the Galactic disk morphology using Open Star Clusters [(Poster)]()
+**Title**: Understanding the Galactic disk morphology using Open Star Clusters [(Poster)]()  
 **Name**: Sagar Malhotra (MS18091)  
 **Local Thesis Guide**: Dr. Pankaj Kushwaha  
-**External Guide**: Dr. Yogesh C. Joshi (ARIES, Nainital)
+**External Guide**: Dr. Yogesh C. Joshi (ARIES, Nainital)  
 
 **How can one learn more about work related to your thesis?**  
 One can go through the papers by the GaiaUB group at ICCUB, University of Barcelona.
@@ -151,11 +157,13 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 [To start of project↑](#galactic-disk-morphology)  
 [To main section↑](#astrophysics-and-cosmology)
 
+---
+
 ## Galactic Dynamics
 
-**Title**: Simulation studies of Black Holes (BH) originating in Globular clusters [(Poster)]()
+**Title**: Simulation studies of Black Holes (BH) originating in Globular clusters [(Poster)]()  
 **Name**: Shiv Shankar Singh (MS18006)  
-**Local Thesis Guide**: Prof. Jasjeet Singh Bagla
+**Local Thesis Guide**: Prof. Jasjeet Singh Bagla  
 
 **Brief explanation**:  
 *Black holes (BHs) are celestial objects characterized by their extraordinary gravitational forces, which are so powerful that they prevent even light from escaping. Within globular clusters, densely packed groups of stars held together by gravity, the presence and evolution of BHs significantly influence the dynamical processes unfolding in these systems. This study aims to examine the behavior of BHs originating in globular clusters, with a particular focus on understanding their dynamics as they move rapidly through the cluster. By creating a realization of a Plummer sphere, we analyze the equilibrium state of the system and introduce a massive particle to represent a BH. Our investigation delves into the dynamics of this massive particle as it traverses the Plummer sphere, taking into account the effects of dynamical friction. The findings from our simulations offer valuable insights into the dynamics of BHs in globular clusters, enhancing our understanding of their behavior within these dense stellar environments.*
@@ -164,7 +172,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 *A brief motivation:*
 
 *Globular clusters, dense spherical assemblies of stars orbiting the outskirts of galaxies, provide invaluable insights into galaxy formation, evolution, and the nature of dark matter. With high-density cores, these clusters are thought to harbor a significant number of black holes (BHs). However, the dynamics and time evolution of these systems remain largely unexplored. In this work, we develop a simple model to investigate the dynamics of massive objects, such as BHs, moving through a globular cluster, employing both N-body simulations and analytical methods.*  
-*Previous studies have suggested that globular clusters may eject some of their BHs through various encounter mechanisms. However, there has been no evidence to support this idea. We explore how the dynamics of massive compact objects (BH) would evolve if the BHs had significant kick velocities ($v > v_{escape}$) upon formation.*  
+*Previous studies have suggested that globular clusters may eject some of their BHs through various encounter mechanisms. However, there has been no evidence to support this idea. We explore how the dynamics of massive compact objects (BH) would evolve if the BHs had significant kick velocities ($v > v_\text{escape}$) upon formation.*  
 *Using the Plummer sphere model and the Barnes-Hut algorithm, we conducted N-body simulations for an initial population of $1 \times 10^5$ stars and massive compact objects (BHs) with masses ranging from $10^2$ to $10^3$ solar masses. Our results provide insights into the implications of introducing BHs with significant kick velocities and how this affects their dynamics within the globular cluster.*
 
 **How did you go about learning and researching for your thesis?**  
@@ -179,15 +187,19 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 [To start of project↑](#galactic-dynamics)  
 [To main section↑](#astrophysics-and-cosmology)
 
+---
+
 # Biology and Biophysics
 ## Biophysics
 
-**Title**: Effect of tip-link protein (Cadherin23) on membrane Bending Rigidity [(Poster)]()
+**Title**: Effect of tip-link protein (Cadherin23) on membrane Bending Rigidity [(Poster)]()  
 **Name**: Hemraj Meena (MS18029)  
-**Local Thesis Guide**: Tripta Bhatia
+**Local Thesis Guide**: Tripta Bhatia  
 
 [To start of project↑](#biophysics)  
 [To main section↑](#biology-and-biophysics)
+
+---
 
 ## Bioinformatics
 
@@ -211,26 +223,32 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 [To start of project↑](#bioinformatics)  
 [To main section↑](#biology-and-biophysics)
 
+---
+
 ## Computational Soft Matter
-**Title**: Understanding collagen assembly [(Poster)]()
+**Title**: Understanding collagen assembly [(Poster)]()  
 **Name**: Smriti Chhibber (MS18142)  
 **Local Thesis Guide**: Dr. Tripta Bhatia  
-**External Guide**: Dr. Andela Saric
+**External Guide**: Dr. Andela Saric  
 
 **Brief explanation**:  
 *Collagen is the most abundant protein of human body and it shows a banding pattern with period of 67nm, something that has stayed the same throughout the past hundred years. My thesis is on understanding how this pattern arrises and creating simulations to mimic it.*
+
 [To start of project↑](#computational-soft-matter)  
 [To main section↑](#biology-and-biophysics)
 
+---
+
 ## Neuronal Oscillators
 
-**Title**: Resilience of a Network of Neuronal Oscillators [(Poster)]()
-
+**Title**: Resilience of a Network of Neuronal Oscillators [(Poster)]()  
 **Name**: Aalhad Abhay Bhatt (MS18118)  
-**Local Thesis Guide**: Sudeshna Sinha
+**Local Thesis Guide**: Sudeshna Sinha  
 
 [To start of project↑](#neuronal-oscillators)  
 [To main section↑](#biology-and-biophysics)
+
+---
 
 ## Non-Linear Dynamics and Theoretical ecology
 
@@ -239,13 +257,13 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 **Local Thesis Guide**: Sudeshna Sinha
 
 **Brief explanation**:  
-*We look at a density-dependent dispersal rule - threshold-activated dispersal for predators in a tritrophic (vegetation-prey-predator) food web model, extended spatially. The original model by Blasius et. al. (without dispersal) suggests a uniform phase oscillation with chaotic amplitude (UPCA) dynamics for predators in the vertical three-species food-chain strikingly similar to the natural Canadian Lynx population cycle across years. We look at dispersal of predators from a single ecological patch undergoing local foodweb dynamics into the external world and observe the stabilisation of the original chaotic dynamics for low threshold values. We also observe a stabilisation of predators to period-2 cycle but saturation with high oscillation amplitude for dispersal at low threshold in a closed-ring of ecological patches (ring size (N) =3). Synchronisation in predator population across patches is also observed for low threshold values. Stability analysis suggests an unstable  2D vegetation-prey system with an evidence of extreme events when the predator is fixed at the critical threshold. Our study explores a novel dispersal rule dependent on the local patch dynamics and the results have potential to understand the stability of real-world ecological systems. In addition, we find that threshold-activated dispersal is a probable factor to induce extreme events or extinction across species in the tritrophic model, and hence, has an application in conservation studies. *
+*We look at a density-dependent dispersal rule - threshold-activated dispersal for predators in a tritrophic (vegetation-prey-predator) food web model, extended spatially. The original model by Blasius et. al. (without dispersal) suggests a uniform phase oscillation with chaotic amplitude (UPCA) dynamics for predators in the vertical three-species food-chain strikingly similar to the natural Canadian Lynx population cycle across years. We look at dispersal of predators from a single ecological patch undergoing local foodweb dynamics into the external world and observe the stabilisation of the original chaotic dynamics for low threshold values. We also observe a stabilisation of predators to period-2 cycle but saturation with high oscillation amplitude for dispersal at low threshold in a closed-ring of ecological patches (ring size (N) =3). Synchronisation in predator population across patches is also observed for low threshold values. Stability analysis suggests an unstable  2D vegetation-prey system with an evidence of extreme events when the predator is fixed at the critical threshold. Our study explores a novel dispersal rule dependent on the local patch dynamics and the results have potential to understand the stability of real-world ecological systems. In addition, we find that threshold-activated dispersal is a probable factor to induce extreme events or extinction across species in the tritrophic model, and hence, has an application in conservation studies.*
 
 **Why did you decide to choose this topic/problem for your thesis?**  
-*I was always interested in complex systems with a curiosity to study emergent properties across biological scales (neuronal to individual to populations). Having worked on computational models in neuroscience, I wanted to probe questions at a larger scale like stability of ecological populations connected in space. Stability is influenced by several intrinsic and extrinsic factors and this particular question was interesting to me as it allowed me to uncover the complexity of systems with an interplay between intrinsic foodweb dynamics and extrinsic dispersal dynamics as factors affecting the emergent property of stability and persistence. *
+*I was always interested in complex systems with a curiosity to study emergent properties across biological scales (neuronal to individual to populations). Having worked on computational models in neuroscience, I wanted to probe questions at a larger scale like stability of ecological populations connected in space. Stability is influenced by several intrinsic and extrinsic factors and this particular question was interesting to me as it allowed me to uncover the complexity of systems with an interplay between intrinsic foodweb dynamics and extrinsic dispersal dynamics as factors affecting the emergent property of stability and persistence.*
 
 **How did you go about learning and researching for your thesis?**  
-*Having a quantitative background in modeling complex systems gave a headstart to understand the mathematical encoding of ecological systems. However, since I was new with ecological systems, intensive literature reviews suggested by my guide and also explored by myself helped in getting familiar with concepts of ecological dynamics and their theoretical understanding. Interdisciplinary studies bring several challenges as it has to probed with multiple viewpoints and spending considerable time on the basic model and the groundwork before extending the complexity contributed to establishing a comfort level with the system. Discussing the ideas (even the most stupid ones) regularly with my guide and peers also contributed to the learning. There is a certain advantage with theoretical modeling, the quick feedback which forms a great check and balance way of working. *
+*Having a quantitative background in modeling complex systems gave a headstart to understand the mathematical encoding of ecological systems. However, since I was new with ecological systems, intensive literature reviews suggested by my guide and also explored by myself helped in getting familiar with concepts of ecological dynamics and their theoretical understanding. Interdisciplinary studies bring several challenges as it has to probed with multiple viewpoints and spending considerable time on the basic model and the groundwork before extending the complexity contributed to establishing a comfort level with the system. Discussing the ideas (even the most stupid ones) regularly with my guide and peers also contributed to the learning. There is a certain advantage with theoretical modeling, the quick feedback which forms a great check and balance way of working.*
 
 **Do you plan to continue working on your thesis topic in the future, or changing to something else?**  
 *I plan to work in the same broad field of nonlinear dynamics and complex systems. However, I would be shifting to a different set of systems to uncover the similar questions on stability and spatiotemporal dynamics across social and urban ecosystems perturbed by factors like climate change.*
@@ -258,6 +276,8 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 [To start of project↑](#non-linear-dynamics-and-theoretical-ecology)  
 [To main section↑](#biology-and-biophysics)
 
+---
+
 ## Non-genetic intergenerational inheritance
 
 **Title**: Paternal exposure to early life adversity alters placental efficiency in offspring [(Poster)]()
@@ -268,19 +288,22 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 [To start of project↑](#non-genetic-intergenerational-inheritance)  
 [To main section↑](#biology-and-biophysics)
 
+---
+
 ## Population Genomics
-**Title**: Demographic history of European Arabis alpina [(Poster)]()
+**Title**: Demographic history of European Arabis alpina [(Poster)]()   
 **Name**: Mehak (MS18041)  
 **Local Thesis Guide**: Dr. N.G. Prasad  
-**External Guide**: Dr. Andrea Fulgione
+**External Guide**: Dr. Andrea Fulgione  
 
 [To start of project↑](#population-genomics)  
 [To main section↑](#biology-and-biophysics)
 
+---
+
 ## Theoretical Evolutionary Biology
 
-**Title**: When will females evolve ornaments to attract males for mating? 
-[(Poster)]()
+**Title**: When will females evolve ornaments to attract males for mating? [(Poster)]()  
 **Name**: Kartikey Awasthi (MS18203)  
 **Local Thesis Guide**: Dr. Manjari Jain  
 **External Guide**: Dr. Jonathan Henshaw
@@ -291,8 +314,10 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 [To start of project↑](#theoretical-evolutionary-biology)  
 [To main section↑](#biology-and-biophysics)
 
+---
+
 ## Three Dimensional Bioprinting and Microfluidics
-**Title**: Developing a device for high throughput fabrication of spheroids using interconnecting chambers in a dynamic flow [(Poster)]()
+**Title**: Developing a device for high throughput fabrication of spheroids using interconnecting chambers in a dynamic flow [(Poster)]()  
 **Name**: Shweta Saini (MS18143)  
 **Local Thesis Guide**: Dr. Jogender Singh  
 **External Guide**: Prof. Ibrahim Tarik Ozbolat
@@ -315,21 +340,25 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 [To start of project↑](#three-dimensional-bioprinting-and-microfluidics)  
 [To main section↑](#biology-and-biophysics)
 
+---
+
 # Chemistry
 
 ## Organic Synthesis
 
-**Title**: Cyclopropenium Ion catalysted 1,6- Conjugate Addition of Indoles to p- Quinone Methides [(Poster)]()
+**Title**: Cyclopropenium Ion catalysted 1,6- Conjugate Addition of Indoles to p- Quinone Methides [(Poster)]()  
 **Name**: Arkopal Nandy (MS18074)  
 **Local Thesis Guide**: Dr. R. Vijaya Anand  
 [To start of project↑](#organic-synthesis)  
 [To main section↑](#chemistry)
 
+---
+
 # CS and Data Science
 
 ## Algorithm Fairness Improvement
 
-**Title**: Improve Algorithmic fairness in recidivism prediction [(Poster)]()
+**Title**: Improve Algorithmic fairness in recidivism prediction [(Poster)]()  
 **Name**: Akshit Nanda (MS18216)  
 **Local Thesis Guide**: Dr. Vaibhav Vaish  
 **External Guide**: Dr. Sarabjot Singh Anand
@@ -337,9 +366,11 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 [To start of project↑](#algorithm-fairness-improvement)  
 [To main section↑](#cs-and-data-science)
 
+---
+
 ## Network Science
 
-**Title**: Tracking the Evolution of Technology and Science using Patent and Publication Data [(Poster)]()
+**Title**: Tracking the Evolution of Technology and Science using Patent and Publication Data [(Poster)]()   
 **Name**: Gariman Singh (MS18057)  
 **Local Thesis Guide**: Dr. Amit Kulshrestha  
 **External Guide**: Dr. Sarabjot Singh Anand
@@ -350,14 +381,18 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 [To start of project↑](#network-science)  
 [To main section↑](#cs-and-data-science)
 
+---
+
 # Humanities
 
 ## Film Studies
-**Title**: Pride and Musicals: A study of queer musical films [(Poster)]()
+**Title**: Pride and Musicals: A study of queer musical films [(Poster)]()  
 **Name**: Arya Padhye (MS 18200)  
 **Local Thesis Guide**: Dr. Adrene Freeda D'Cruz  
 [To start of project↑](#film-studies)  
 [To main section↑](#humanities)
+
+---
 
 ## Models in Knowledge Production
 **Title**: Models in Knowledge Production [(Poster)]()  
@@ -384,11 +419,13 @@ We move into insurance modeling as a central example in the thesis. We focus onl
 [To start of project↑](#models-in-knowledge-production)  
 [To main section↑](#humanities)
 
+---
+
 # Mathematics
 
 ## Knot theory and Low-dimensional Topology
 
-**Title**: A Combinatorial approach to Knot theory and its applications [(Poster)]() 
+**Title**: A Combinatorial approach to Knot theory and its applications [(Poster)]()  
 **Name**: Bhavneet Singh Saini (MS18069)  
 **Local Thesis Guide**: Dr. Shane D'Mello
 
@@ -406,6 +443,8 @@ We move into insurance modeling as a central example in the thesis. We focus onl
 
 [To start of project↑](#knot-theory-and-low-dimensional-topology)  
 [To main section↑](#mathematics)
+
+---
 
 ## Modular Forms, Number Theory
 
@@ -431,11 +470,13 @@ We move into insurance modeling as a central example in the thesis. We focus onl
 [To start of project↑](#modular-forms-number-theory)  
 [To main section↑](#mathematics)
 
+---
+
 ## Probability (Polya urns and Preferential attachment)
 
-**Title**: Properties of Preferential Attachment Trees with constant fitness [(Poster)]()
+**Title**: Properties of Preferential Attachment Trees with constant fitness [(Poster)]()   
 **Name**: Rimjhim Goel (MS18133)  
-**Local Thesis Guide**: Dr. Neeraja Sahasrabudhe
+**Local Thesis Guide**: Dr. Neeraja Sahasrabudhe  
 
 **Brief explanation**:  
 *We basically look at the phenomena of preferential attachment in random graphs that helps to generate networks/graphs that are close to real-life networks. For example, consider the citation network, the social networks, world wide web, telephone networks etc. These networks are huge, still growing and have a high likelihood of hubs formation.*  
@@ -456,13 +497,15 @@ We move into insurance modeling as a central example in the thesis. We focus onl
 [To start of project↑](#probability-polya-urns-and-preferential-attachment)  
 [To main section↑](#mathematics)
 
+---
+
 # Physics
 
 ## Belle II Data Analysis via CNN
 
-**Title**: Recovery of merged $π^0$ from the ECL detector of the Belle II experiment [(Poster)]()
+**Title**: Recovery of merged $π^0$ from the ECL detector of the Belle II experiment [(Poster)]()  
 **Name**: Naveen Kumar Baghel (MS18102)  
-**Local Thesis Guide**: Dr. Vishal Bhardwaj
+**Local Thesis Guide**: Dr. Vishal Bhardwaj  
 
 **Brief explanation**: 
 *This study aims to utilize a Convolutional Neural Network (CNN) to retrieve merged $π^0$mesons lost in the Belle II experiment, where they appear as individual photons. The issuearises when dealing with high momentum $π^0$ mesons, i.e., beyond 2 GeV in the Belle IIexperiment, as the shower produced by both the $π^0$ meson and gamma appear indistinguishable at the Electromagnetic Calorimeter (ECL detector). Currently, reconstruction software is utilized to match photon pairs created by the $π^0$ → γγ decay; however, the efficiency of this process can be affected by the γ produced by the rest of the events (ROEs), which mimic the signal. One of the most challenging tasks in particle physics research is accurately identifying and reconstructing subatomic particles. By the nature of the problem and its importance, accurate reconstruction of $π^0$ mesons is crucial for identifying various B/D meson decays.*
@@ -482,14 +525,18 @@ We move into insurance modeling as a central example in the thesis. We focus onl
 [To start of project↑](#belle-ii-data-analysis-via-cnn)  
 [To main section↑](#physics)
 
+---
+
 ## Cluster Mean Field Theory
 
-**Title**: Cluster Mean Field Theory for Quantum Spin Models [(Poster)]()
+**Title**: Cluster Mean Field Theory for Quantum Spin Models [(Poster)]()  
 **Name**: Arka Dutta  (MS18013)  
-**Local Thesis Guide**: Dr. Sanjeev Kumar
+**Local Thesis Guide**: Dr. Sanjeev Kumar  
 
 [To start of project↑](#cluster-mean-field-theory)  
 [To main section↑](#physics)
+
+--
 
 ## Condensed Matter Theory
 
@@ -516,9 +563,11 @@ We move into insurance modeling as a central example in the thesis. We focus onl
 [To start of project↑](#condensed-matter-theory)  
 [To main section↑](#physics)
 
+---
+
 ## Condensed Matter Physics
 
-**Title**: Interacting bosons on an optical lattice [(Poster)]()
+**Title**: Interacting bosons on an optical lattice [(Poster)]()  
 **Name**: Akshay Shankar (MS18117)  
 **Local Thesis Guide**: Dr. Sanjeev Kumar  
 **External Guide**: Prof. Dr. Tilman Pfau
@@ -541,21 +590,25 @@ We move into insurance modeling as a central example in the thesis. We focus onl
 *On that note, it is perfectly normal to end up realizing that your thesis topic was NOT your cup of tea at all. Its really a hit or miss, because what we found interesting at a surface level is by no means an indicator of our interest in the gory details of the field. It does get considerably harder to keep yourself motivated to continue when you are confused about what to pursue, but if you made it this far, I'm sure you'll get there!*
 
 **How can one learn more about work related to your thesis?**  
-*Drop me a DM :) Discord: FlynnXD#2733 Otherwise, googling any of the fancy-schmancy words you see above will lead you down a fun rabbithole. Look out specifically for Master's and PhD thesis written by others. If you're courageous enough to look into papers, keep it restricted to reviews on the topic.*
+*Drop me a DM :) Discord: FlynnXD#2733  
+Otherwise, googling any of the fancy-schmancy words you see above will lead you down a fun rabbithole. Look out specifically for Master's and PhD thesis written by others. If you're courageous enough to look into papers, keep it restricted to reviews on the topic.*
 
 [To start of project↑](#condensed-matter-theory2)  
 [To main section↑](#physics)
+
+---
 
 ## Disordered Quantum Systems
 
 **Title**: Non-equilibrium transport in quantum chains under quasiperiodic potentials [(Poster)]()
 **Name**: Sourav S (MS18084)  
 **Local Thesis Guide**: Dr. Sanjeev Kumar  
-**External Guide**:  
-Dr. Devendra Singh Bhakuni (Ben Gurion University, Israel and ICTP, Italy) and  Dr. Auditya Sharma (IISER Bhopal)
+**External Guide**:  Dr. Devendra Singh Bhakuni (Ben Gurion University, Israel and ICTP, Italy) and  Dr. Auditya Sharma (IISER Bhopal)
 
 [To start of project↑](#disordered-quantum-systems)  
 [To main section↑](#physics)
+
+---
 
 ## Monte Carlo of Quantum phase transitions
 
@@ -565,13 +618,13 @@ Dr. Devendra Singh Bhakuni (Ben Gurion University, Israel and ICTP, Italy) and  
 **External Guide**: Prof. Vijay B. Shenoy
 
 **Brief explanation**:  
-*In this work, we study the quantum critical behavior of two different lattice models - Z2 lattice gauge theory and the J1-J2 Heisenberg model, numerically, using Monte Carlo methods. 
+*In this work, we study the quantum critical behavior of two different lattice models - Z2 lattice gauge theory and the J1-J2 Heisenberg model, numerically, using Monte Carlo methods.* 
 
-Z2 lattice gauge theory is the discrete cousin of electrodynamics, with the gauge group replaced from R to Z2. The model exhibits certain interesting phases, in particular, topological phases when studied in the topology of a torus. However, the redundant gauge degrees of freedom make it difficult to directly study such systems numerically. Therefore, we perform a dual transformation and map the gauge theory to a Transverse Field Ising model (a quantum Ising model) with the periodic boundary condition mapping to the so-called "singlet" constraint. We then employ the methodology of Path Integral Monte Carlo to map the 1d quantum system to a (1+1)d classical system which can be studied using the standard Metropolis algorithm.
+*Z2 lattice gauge theory is the discrete cousin of electrodynamics, with the gauge group replaced from R to Z2. The model exhibits certain interesting phases, in particular, topological phases when studied in the topology of a torus. However, the redundant gauge degrees of freedom make it difficult to directly study such systems numerically. Therefore, we perform a dual transformation and map the gauge theory to a Transverse Field Ising model (a quantum Ising model) with the periodic boundary condition mapping to the so-called "singlet" constraint. We then employ the methodology of Path Integral Monte Carlo to map the 1d quantum system to a (1+1)d classical system which can be studied using the standard Metropolis algorithm.*
 
-For the quantum J1-J2 model, we propose that the system can be understood as quantum fluctuations on top of a classical model. The methodology proposes that the J1-J2 model can be broken down as a J1-J2 Ising model with quantum fluctuations. The quantum fluctuations are encoded as a semi-classical dimer with the energy and magnetization of a two-site quantum dimer (thermal singlet and triplet states). The semi-classical Monte Carlo algorithm with spin flips and dimer annihilation/creation steps emulates a Quantum Monte Carlo calculation with lesser computational resources and results in accurately predicting the different phases of matter - the paramagnet, the Neel AFM state, the collinear AFM state and the spin liquid (quantum paramagnet) state.
+*For the quantum J1-J2 model, we propose that the system can be understood as quantum fluctuations on top of a classical model. The methodology proposes that the J1-J2 model can be broken down as a J1-J2 Ising model with quantum fluctuations. The quantum fluctuations are encoded as a semi-classical dimer with the energy and magnetization of a two-site quantum dimer (thermal singlet and triplet states). The semi-classical Monte Carlo algorithm with spin flips and dimer annihilation/creation steps emulates a Quantum Monte Carlo calculation with lesser computational resources and results in accurately predicting the different phases of matter - the paramagnet, the Neel AFM state, the collinear AFM state and the spin liquid (quantum paramagnet) state.*
 
-The Monte Carlo methods are good estimators of expectation values of relevant operators in the system and these averages can be used in estimating the critical exponents of the quantum phase transition using finite-size scaling analysis.*
+*The Monte Carlo methods are good estimators of expectation values of relevant operators in the system and these averages can be used in estimating the critical exponents of the quantum phase transition using finite-size scaling analysis.*
 
 **Why did you decide to choose this topic/problem for your thesis?**  
 *The ideal intersection of theoretical physics and computational physics with applications in real world systems.*
@@ -583,27 +636,29 @@ The Monte Carlo methods are good estimators of expectation values of relevant op
 *I plan to continue working in the direction of quantum many-body physics and quantum information.*
 
 **How can one learn more about work related to your thesis?**  
-*1. Anders W. Sandvik, Computational Studies of Quantum Spin Systems (2011).
-1. Xie Chen, Topological lattice models from gauging I, II, III ICTP lecture series.
-1. Franz J. Wegner, Duality in generalized Ising models (1971).
-1. Manu Mathur and T. P. Sreeraj, Lattice gauge theories and spin models (2016)
-else contact me directly.*
+1. Anders W. Sandvik, Computational Studies of Quantum Spin Systems (2011).
+2. Xie Chen, Topological lattice models from gauging I, II, III ICTP lecture series.
+3. Franz J. Wegner, Duality in generalized Ising models (1971).
+4. Manu Mathur and T. P. Sreeraj, Lattice gauge theories and spin models (2016)  
+else contact me directly.
 
 [To start of project↑](#monte-carlo-of-quantum-phase-transitions)  
 [To main section↑](#physics)
 
+---
+
 ## Neutrino Oscillations
-**Title**: Alternative Methods to distinguish Matter Effects from CP Violation in Neutrino Oscillation experiments [(Poster)]() 
+**Title**: Alternative Methods to distinguish Matter Effects from CP Violation in Neutrino Oscillation experiments [(Poster)]()   
 **Name**: Pokhee Saharia (MS18190)  
 **Local Thesis Guide**: Dr. Satyajit Jena  
 **External Guide**: Prof. Federico Sanchez
 
 **Brief explanation**:  
-*Neutrinos are elementary particles in the Standard Model of particle physics, which come in three flavors (types) postulated by the model. They exhibit the phenomenon of changing flavors as they propagate through space - called neutrino oscillations. This particular phenomenon is the only aspect of physics beyond the Standard Model that is directly accessible experimentally, hence a very flourishing field in particle physics today. 
+*Neutrinos are elementary particles in the Standard Model of particle physics, which come in three flavors (types) postulated by the model. They exhibit the phenomenon of changing flavors as they propagate through space - called neutrino oscillations. This particular phenomenon is the only aspect of physics beyond the Standard Model that is directly accessible experimentally, hence a very flourishing field in particle physics today.* 
 
-CP Violation is a fundamental asymmetry in physics - basically tells us how differently do particles and their antiparticles behave. Extended specifically to the case of neutrinos, CP violation in neutrino oscillations is the study of how differently do neutrinos and antineutrinos oscillate from each other. A non-zero measured observable of this quantity could lead to answers about the matter-antimatter asymmetry in the universe; i.e, since the Big Bang created equal amounts of matter and antimatter, how did this balance get thrown off in the history of the universe and leave us with a world made primarily of matter. Or, to put it more dramatically, how did we come to exist?
+*CP Violation is a fundamental asymmetry in physics - basically tells us how differently do particles and their antiparticles behave. Extended specifically to the case of neutrinos, CP violation in neutrino oscillations is the study of how differently do neutrinos and antineutrinos oscillate from each other. A non-zero measured observable of this quantity could lead to answers about the matter-antimatter asymmetry in the universe; i.e, since the Big Bang created equal amounts of matter and antimatter, how did this balance get thrown off in the history of the universe and leave us with a world made primarily of matter. Or, to put it more dramatically, how did we come to exist?*
 
-Experimentally, the measurement of this asymmetry poses a problem, because (anti)neutrino beams in oscillation experiments are made to propagate through matter. Now, matter is fundamentally CP asymmetric, i.e, it affects neutrinos and antineutrinos differently. This leads to the generation of a matter-induce 'fake' component of CP violation in neutrino oscillations that reflects in measurements, preventing the observation of a genuine CP violation. My thesis focussed on studying these matter effects and methods of separating them from genuine CP violation in the neutrino oscillation experiment T2K in Japan.*
+*Experimentally, the measurement of this asymmetry poses a problem, because (anti)neutrino beams in oscillation experiments are made to propagate through matter. Now, matter is fundamentally CP asymmetric, i.e, it affects neutrinos and antineutrinos differently. This leads to the generation of a matter-induce 'fake' component of CP violation in neutrino oscillations that reflects in measurements, preventing the observation of a genuine CP violation. My thesis focussed on studying these matter effects and methods of separating them from genuine CP violation in the neutrino oscillation experiment T2K in Japan.*
 
 **Why did you decide to choose this topic/problem for your thesis?**  
 *I personally didn't pick this specific topic, because when I had joined the project I didn't have much idea about niche research on neutrinos, all my knowledge was from pop science. It was more of a progressive interest developed in the field while working on my thesis.*
@@ -615,14 +670,16 @@ Experimentally, the measurement of this asymmetry poses a problem, because (anti
 *Yes, I plan to continue working on this topic for my phd as well.*
 
 **How can one learn more about work related to your thesis?**  
-*My preferred method of learning about any niche topic has always been to go on INSPIRE-HEP (an open source repository of high energy physics literature) and look for former phd theses related to the topic. I've always found reading these way more helpful than any textbook or publication. *
+*My preferred method of learning about any niche topic has always been to go on INSPIRE-HEP (an open source repository of high energy physics literature) and look for former phd theses related to the topic. I've always found reading these way more helpful than any textbook or publication.*
 
 [To start of project↑](#neutrino-oscillations)  
 [To main section↑](#physics)
 
+---
+
 ## Particle Physics
 
-**Title**: Modern Methods of Amplitude Calculation [(Poster)]() 
+**Title**: Modern Methods of Amplitude Calculation [(Poster)]()  
 **Name**: Dishant Sisodia (MS18066)  
 **Local Thesis Guide**: Dr. Ambresh Shivaji
 
@@ -632,6 +689,8 @@ Experimentally, the measurement of this asymmetry poses a problem, because (anti
 [To start of project↑](#particle-physics)  
 [To main section↑](#physics)
 
+---  
+
 ## Quantum Field Theory
 
 **Title**: Holographic Entanglement Entropy at Spatial Infinity [(Poster)]()  
@@ -639,7 +698,7 @@ Experimentally, the measurement of this asymmetry poses a problem, because (anti
 **Local Thesis Guide**: K. P. Yogendran  
 **External Guide**: Chethan Krishnan
 
-**Brief explanation**:
+**Brief explanation**:  
 *not possible*
 
 
@@ -658,11 +717,13 @@ Experimentally, the measurement of this asymmetry poses a problem, because (anti
 [To start of project↑](#quantum-field-theory)  
 [To main section↑](#physics)
 
+---
+
 # Quantum Physics and Information
 
 ## Entanglement Generation
 
-**Title**: Entanglement Generation via Locally Mediating Interactions [(Poster)]()
+**Title**: Entanglement Generation via Locally Mediating Interactions [(Poster)]()  
 **Name**: Suroj Dey (MS18221)  
 **Local Thesis Guide**: Dr. Kinjalk Lochan  
 **External Guide**: Prof. Shankaranarayanan
@@ -686,25 +747,29 @@ Experimentally, the measurement of this asymmetry poses a problem, because (anti
 [To main section↑](#quantum-physics-and-information)
 
 ## Quantum Information and Quantum Physics
-**Title**: Emergence of classicality in resource theory of coherence [(Poster)]()
+**Title**: Emergence of classicality in resource theory of coherence [(Poster)]()  
 **Name**: Aabhas Gulati (MS18151)  
 **Local Thesis Guide**: Dr. Manabendra Nath Bera
 
 [To start of project↑](#quantum-information-and-quantum-physics)  
 [To main section↑](#quantum-physics-and-information)
 
+---
+
 ## Quantum Information and Optics
 
-**Title**: Optimising Bell CHSH Violations in Continuous Systems [(Poster)]()
+**Title**: Optimising Bell CHSH Violations in Continuous Systems [(Poster)]()  
 **Name**: Ayushman Srivastava (MS18056)  
 **Local Thesis Guide**: Sandeep Goyal
 
 [To start of project↑](#quantum-information-and-optics)  
 [To main section↑](#quantum-physics-and-information)
 
+---
+
 ## Quantum Walks
 
-**Title**: Quantum Walks and Quantum Resetting [(Poster)]()
+**Title**: Quantum Walks and Quantum Resetting [(Poster)]()  
 **Name**: Dhruva Sambrani (MS18163)  
 **Local Thesis Guide**: Manabendra Nath Bera
 
@@ -714,9 +779,11 @@ Experimentally, the measurement of this asymmetry poses a problem, because (anti
 [To start of project↑](#quantum-walks)  
 [To main section↑](#quantum-physics-and-information)
 
+---
+
 ## Topological Quantum Computation
 
-**Title**: Topological Fault Tolerant Measurement Based Quantum Computation [(Poster)]()
+**Title**: Topological Fault Tolerant Measurement Based Quantum Computation [(Poster)]()  
 **Name**: Rutvik Kayastha (MS18152)  
 **Local Thesis Guide**: Sandeep Goyal
 
