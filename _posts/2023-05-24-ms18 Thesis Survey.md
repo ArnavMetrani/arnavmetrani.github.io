@@ -87,6 +87,7 @@ Use the quicklinks below:
 *Long searches on google scholar, google, and whenever I hit a roadblock in my code I always had StackExchange as a go-to.*
 
 **Do you plan to continue working on your thesis topic in the future, or changing to something else?**
+
 *I am planning on doing some more work to see this through to its conclusion because Dr. Jassal is interested in a paper on this topic and I want to clean up any last mistakes in the code and disagreements in the theory.*
 
 **How can one learn more about work related to your thesis?**  
@@ -98,8 +99,11 @@ Use the quicklinks below:
 ## Dark Matter
 
 **Title**: WIMP decay as possible WDM model [(Poster)]()
+
 **Name**: Abineet Parichha (MS18094)  
+
 **Local Thesis Guide**: Dr. Harvinder Kaur Jassal  
+
 **External Guide**: Dr. Shiv K Sethi (RRI Bangalore)
 
 **Brief explanation**:  
