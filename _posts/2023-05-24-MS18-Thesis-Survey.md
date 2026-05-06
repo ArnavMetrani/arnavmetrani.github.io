@@ -536,7 +536,7 @@ We move into insurance modeling as a central example in the thesis. We focus onl
 [To start of project↑](#cluster-mean-field-theory)  
 [To main section↑](#physics)
 
---
+---
 
 ## Condensed Matter Theory
 
