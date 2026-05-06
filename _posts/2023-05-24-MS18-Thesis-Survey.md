@@ -97,8 +97,8 @@ Use the quicklinks below:
 *It depends on how much does one want to go deeper down the iceberg; one can start from the Friedmann equations itself in a book and derive the formulae I have in my poster, but if one wants to know how these came about they will need a good background in General Relativity. Two books (which are not related to my thesis) which I would recommend if you want to get into cosmology are J. B. Hartle's introduction to General Relativity if you want the mathematical background to GR, and Scott Dodelson's Modern Cosmology for those who want to delve into Relativistic Cosmology and are familiar with GR. Both build up very steadily in difficulty.*
 
 [To start of project↑](#cosmological-data-analysis)  
-[To main section↑](#astrophysics-and-cosmology)
----
+[To main section↑](#astrophysics-and-cosmology)  
+---  
 ## Dark Matter
 
 **Title**: WIMP decay as possible WDM model [(Poster)]()  
