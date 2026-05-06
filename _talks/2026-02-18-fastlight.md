@@ -16,6 +16,6 @@ Click to see transcript and slides.
 
 **Abstract:**
 This will be a talk which will conclude with some interesting results and properties of "fast light", where the group velocity of light (under certain conditions) is greater than c, and even negative!
-However, the bulk of the talk will be reserved for the various hypotheses, experiments, and observations that have gotten us to negative group velocity: How did we form our understanding of it, and how did we observe it experimentally?
+However, the bulk of the talk will be reserved for the various hypotheses, experiments, and observations that have gotten us to negative group velocity: How we formed our understanding of it, and how we observed it experimentally.
 
 I do not plan on following the "Introduction, theorems, results, conclusion" format, where all the work is presented as obvious deductions from magical theorems. Instead, it will follow the spirit of "Is the scientific paper a fraud?" by Peter Medawar (classes.matthewjbrown.net/teaching-files/hps/medawar.pdf) 
