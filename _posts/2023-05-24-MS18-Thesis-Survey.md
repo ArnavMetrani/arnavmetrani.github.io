@@ -1,6 +1,11 @@
+---
+title: "MS18 Thesis Survey"
+---
+
+
 The physics club of IISER-M had conducted a thesis survey for the MS18 batch, which was then deleted from the site under mysterious circumstances. For timebeing I have listed it here for others to view. 
 
-The thesis survey enquired some basic information about the work conducted by the then-outgoing batch. The information listed below is presented as it was provided by the participants, without any changes (grammar, etc.). The submitted posted will be uploaded shortly.
+The thesis survey enquired some basic information about the work conducted by the then-outgoing batch. The information listed below is presented as it was provided by the participants, without any changes (grammar, et cetra). The submitted posters will be uploaded eventually.
 
 # Thesis survey results
 
@@ -52,8 +57,8 @@ Use the quicklinks below:
 ### Physics
 - [Belle II Data Analysis via CNN](#belle-ii-data-analysis-via-cnn)
 - [Cluster Mean Field Theory](#cluster-mean-field-theory)
-- [Condensed Matter Theory](#condensed-matter-theory)
-- [Condensed Matter Physics](#condensed-matter-physics)
+- [Condensed Matter Theory](#condensed-matter-theory1)
+- [Condensed Matter Theory](#condensed-matter-theory2)
 - [Disordered Quantum Systems](#disordered-quantum-systems)
 - [Monte Carlo of Quantum phase transitions](#monte-carlo-of-quantum-phase-transitions)
 - [Neutrino Oscillations](#neutrino-oscillations)
@@ -93,7 +98,7 @@ Use the quicklinks below:
 
 [To start of project↑](#cosmological-data-analysis)  
 [To main section↑](#astrophysics-and-cosmology)
---
+---
 ## Dark Matter
 
 **Title**: WIMP decay as possible WDM model [(Poster)]()  
@@ -538,7 +543,7 @@ We move into insurance modeling as a central example in the thesis. We focus onl
 **How can one learn more about work related to your thesis?**  
 *Drop me a DM :) Discord: FlynnXD#2733 Otherwise, googling any of the fancy-schmancy words you see above will lead you down a fun rabbithole. Look out specifically for Master's and PhD thesis written by others. If you're courageous enough to look into papers, keep it restricted to reviews on the topic.*
 
-[To start of project↑](#condensed-matter-physics)  
+[To start of project↑](#condensed-matter-theory2)  
 [To main section↑](#physics)
 
 ## Disordered Quantum Systems
