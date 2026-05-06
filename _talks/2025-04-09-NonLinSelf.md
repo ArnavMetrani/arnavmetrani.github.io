@@ -7,7 +7,7 @@ venue: "IISER-Mohali"
 date: 2025-04-09
 location: "Mohali, India"
 ---
-Presented a 30 minute presentation as part of the PHY660 course, where I covered by attempts in simulating self-focusing in nonlinear optics. Click to see slides and future development.
+Presented a 30 minute presentation as part of the PHY660 course, where I covered my attempts in simulating self-focusing in nonlinear optics. Click to see slides.
 
 See below for the slides used for the presentation. I am working on extending the code, you can access in here: [NLO repository](https://github.com/ArnavMetrani/Self-Focusing).
 
