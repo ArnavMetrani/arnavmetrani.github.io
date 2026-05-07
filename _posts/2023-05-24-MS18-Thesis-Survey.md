@@ -612,10 +612,10 @@ Otherwise, googling any of the fancy-schmancy words you see above will lead you 
 
 ## Monte Carlo of Quantum phase transitions
 
-**Title**: Monte Carlo studies of quantum phase transitions [(Poster)]()
-**Name**: Kunal Verma (MS18148)  
-**Local Thesis Guide**: Prof. Sanjeev Kumar  
-**External Guide**: Prof. Vijay B. Shenoy
+**Title**: Monte Carlo studies of quantum phase transitions [(Poster)]()  
+**Name**: Kunal Verma (MS18148)   
+**Local Thesis Guide**: Prof. Sanjeev Kumar    
+**External Guide**: Prof. Vijay B. Shenoy  
 
 **Brief explanation**:  
 *In this work, we study the quantum critical behavior of two different lattice models - Z2 lattice gauge theory and the J1-J2 Heisenberg model, numerically, using Monte Carlo methods.* 
