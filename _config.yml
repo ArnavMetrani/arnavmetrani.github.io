@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Arnav Metrani"
 title_separator          : "-"
 name                     : &name "Arnav Metrani"
-description              : &description "Physics Undergraduate at IISER-Mohali"
+description              : &description "BSMS Physics Graduate from IISER-Mohali"
 url                      : https://arnavmetrani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ArnavMetrani/arnavmetrani.github.io"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Arnav Metrani"
   avatar           : "Arnav.jpeg"
-  bio              : "Physics Undergraduate at IISER-Mohali"
+  bio              : "BSMS Physics Graduate from IISER-Mohali"
   location         : "Mohali, Punjab, India"
   employer         :
   pubmed           : 
