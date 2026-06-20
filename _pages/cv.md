@@ -15,7 +15,7 @@ redirect_from:
 
 Scholastic
 ======
-* Indian Institute of Science Education and Research Mohali, BSMS in Physics, 2026 (expected)
+* Indian Institute of Science Education and Research Mohali, BSMS in Physics (Bachelor of Science and Master of Science with Major in Physics), June 2026 
 
 Projects
 ======
