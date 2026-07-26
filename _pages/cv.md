@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Version](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Resume_June_2026.pdf)
+[PDF Version](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Resume_July_2026.pdf)
 (PDF previews below may take a minute and few reloads to appear.)
-<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/Resume_June_2026.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/Resume_July_2026.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
 
 Scholastic
 ======
-* Indian Institute of Science Education and Research Mohali, BSMS in Physics (Bachelor of Science and Master of Science with Major in Physics), June 2026 
+* Indian Institute of Science Education and Research Mohali, BSMS in Physics (Bachelor of Science and Master of Science with Major in Physics), July 2026 
 
 Projects
 ======
@@ -78,8 +78,11 @@ Courses taken
 * Mathematics: Introduction to Group Theory, Real Analysis in One variable, Introduction to Differential Geometry, Introduction to Differential Equations, Probability Theory, Theory of Computation, Linear Algebra and Group Theory
 * Electronics: PHY312- Logic gates, flip flops, registers and counters, clock circuits, and programming with Arduino
 
-Assortment of articles studied 
+Assortment of articles studied (i.e. my research interests)
 ======
+* Vaidman, Lev, et al. “How to Ascertain the Values of σ_x , σ_y , and σ_z of a Spin- 1/2 Particle.” Physical Review Letters, vol. 58, no. 14, Apr. 1987, pp. 1385–87. DOI.org (Crossref), [https://doi.org/10.1103/PhysRevLett.58.1385](https://doi.org/10.1103/PhysRevLett.58.1385).
+* Jennewein, S., et al. “Propagation of Light through Small Clouds of Cold Interacting Atoms.” Physical Review A, vol. 94, no. 5, Nov. 2016, p. 053828. DOI.org (Crossref), [https://doi.org/10.1103/PhysRevA.94.053828](https://doi.org/10.1103/PhysRevA.94.053828).
+* Macke, Bruno, and Bernard Ségard. “On-Resonance Material Fast Light.” Physical Review A, vol. 97, no. 6, June 2018, p. 063830. DOI.org (Crossref), [https://doi.org/10.1103/PhysRevA.97.063830](https://doi.org/10.1103/PhysRevA.97.063830).
 * Padgett, Miles J., and Robert W. Boyd. “An Introduction to Ghost Imaging: Quantum and Classical.” Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 375, no. 2099 (August 6, 2017): 20160233. [https://doi.org/10.1098/rsta.2016.0233](https://doi.org/10.1098/rsta.2016.0233)
 * Elitzur, Avshalom C., and Lev Vaidman. “Quantum Mechanical Interaction-Free Measurements.” Foundations of Physics 23, no. 7 (July 1993): 987–97. [https://doi.org/10.1007/BF00736012](https://doi.org/10.1007/BF00736012)
 * Pittman, T. B., Y. H. Shih, D. V. Strekalov, and A. V. Sergienko. “Optical Imaging by Means of Two-Photon Quantum Entanglement.” Physical Review A 52, no. 5 (November 1, 1995): R3429–32. [https://doi.org/10.1103/PhysRevA.52.R3429](https://doi.org/10.1103/PhysRevA.52.R3429)
