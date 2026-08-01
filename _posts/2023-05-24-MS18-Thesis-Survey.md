@@ -370,7 +370,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 
 ## Network Science
 
-**Title**: Tracking the Evolution of Technology and Science using Patent and Publication Data [(Poster)]()   
+**Title**: Tracking the Evolution of Technology and Science using Patent and Publication Data [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/7d95325cdb3c1b5f50ecc68bf9c16ec3ae54f75d/_data/TEMPORARY/PRJ502%20Poster%20-%20Gariman%20Singh.pdf)   
 **Name**: Gariman Singh (MS18057)  
 **Local Thesis Guide**: Dr. Amit Kulshrestha  
 **External Guide**: Dr. Sarabjot Singh Anand
@@ -395,7 +395,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 ---
 
 ## Models in Knowledge Production
-**Title**: Models in Knowledge Production [(Poster)]()  
+**Title**: Models in Knowledge Production [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/7d95325cdb3c1b5f50ecc68bf9c16ec3ae54f75d/_data/TEMPORARY/Mayukh_Thesis_Poster%20-%20Mayukh%20Chakrabarty.pdf)  
 **Name**: Mayukh Chakrabarty (MS18046)  
 **Local Thesis Guide**: Dr. Neeraja Sahasrabudhe  
 **External Guide**: Dr. Tathagata Sengupta
@@ -448,7 +448,7 @@ We move into insurance modeling as a central example in the thesis. We focus onl
 
 ## Modular Forms, Number Theory
 
-**Title**: Modular Forms and its Applications [(Poster)]()  
+**Title**: Modular Forms and its Applications [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/7d95325cdb3c1b5f50ecc68bf9c16ec3ae54f75d/_data/TEMPORARY/Modular_Forms_and_its_Applications__Poster-2%20-%20Jishnu%20Kundu.pdf)  
 **Name**: Jishnu Kundu (MS18064)  
 **Local Thesis Guide**: Dr. Vaibhav Vaish
 
@@ -648,7 +648,7 @@ else contact me directly.
 ---
 
 ## Neutrino Oscillations
-**Title**: Alternative Methods to distinguish Matter Effects from CP Violation in Neutrino Oscillation experiments [(Poster)]()   
+**Title**: Alternative Methods to distinguish Matter Effects from CP Violation in Neutrino Oscillation experiments [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/7d95325cdb3c1b5f50ecc68bf9c16ec3ae54f75d/_data/TEMPORARY/PRJ502_Poster_Pokhee%20-%20Pokhee%20Saharia.pdf)   
 **Name**: Pokhee Saharia (MS18190)  
 **Local Thesis Guide**: Dr. Satyajit Jena  
 **External Guide**: Prof. Federico Sanchez
