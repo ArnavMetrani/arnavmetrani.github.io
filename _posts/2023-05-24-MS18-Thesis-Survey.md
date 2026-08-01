@@ -103,7 +103,7 @@ Use the quicklinks below:
 
 ## Dark Matter
 
-**Title**: WIMP decay as possible WDM model [(Poster)]()  
+**Title**: WIMP decay as possible WDM model [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/d91f0804e95f9cec1ae975ace3e6e77806935dbd/_data/TEMPORARY/Thesis%20poster%202%20-%20Abineet%20Parichha.pdf)  
 **Name**: Abineet Parichha (MS18094)  
 **Local Thesis Guide**: Dr. Harvinder Kaur Jassal  
 **External Guide**: Dr. Shiv K Sethi (RRI Bangalore)  
@@ -192,7 +192,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 # Biology and Biophysics
 ## Biophysics
 
-**Title**: Effect of tip-link protein (Cadherin23) on membrane Bending Rigidity [(Poster)]()  
+**Title**: Effect of tip-link protein (Cadherin23) on membrane Bending Rigidity [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/d91f0804e95f9cec1ae975ace3e6e77806935dbd/_data/TEMPORARY/Hemraj_Poster%20-%20Hemraj%20Meena.pdf)  
 **Name**: Hemraj Meena (MS18029)  
 **Local Thesis Guide**: Tripta Bhatia  
 
@@ -241,7 +241,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 
 ## Neuronal Oscillators
 
-**Title**: Resilience of a Network of Neuronal Oscillators [(Poster)]()  
+**Title**: Resilience of a Network of Neuronal Oscillators [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/d91f0804e95f9cec1ae975ace3e6e77806935dbd/_data/TEMPORARY/Poster%20-%20Aalhad%20Abhay%20Bhatt.png)  
 **Name**: Aalhad Abhay Bhatt (MS18118)  
 **Local Thesis Guide**: Sudeshna Sinha  
 
@@ -252,7 +252,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 
 ## Non-Linear Dynamics and Theoretical ecology
 
-**Title**: Threshold-Activated Predator Dispersal in Spatially Extended Ecological Systems [(Poster)]()
+**Title**: Threshold-Activated Predator Dispersal in Spatially Extended Ecological Systems [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/d91f0804e95f9cec1ae975ace3e6e77806935dbd/_data/TEMPORARY/PRJ502_Poster-MS18157-Final%20(1)%20-%20Shreyas%20Ravindra%20Gadge.pdf)
 **Name**: Shreyas Gadge (MS18157)  
 **Local Thesis Guide**: Sudeshna Sinha
 
@@ -358,7 +358,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 
 ## Algorithm Fairness Improvement
 
-**Title**: Improve Algorithmic fairness in recidivism prediction [(Poster)]()  
+**Title**: Improve Algorithmic fairness in recidivism prediction [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/d91f0804e95f9cec1ae975ace3e6e77806935dbd/_data/TEMPORARY/poster_akshit_nanda%20(1)%20-%20Akshit%20Nanda.pdf)  
 **Name**: Akshit Nanda (MS18216)  
 **Local Thesis Guide**: Dr. Vaibhav Vaish  
 **External Guide**: Dr. Sarabjot Singh Anand
@@ -386,7 +386,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 # Humanities
 
 ## Film Studies
-**Title**: Pride and Musicals: A study of queer musical films [(Poster)]()  
+**Title**: Pride and Musicals: A study of queer musical films [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/d91f0804e95f9cec1ae975ace3e6e77806935dbd/_data/TEMPORARY/Poster%20final%201%20-%20Arya%20Padhye.pdf)  
 **Name**: Arya Padhye (MS 18200)  
 **Local Thesis Guide**: Dr. Adrene Freeda D'Cruz  
 [To start of project↑](#film-studies)  
@@ -529,7 +529,7 @@ We move into insurance modeling as a central example in the thesis. We focus onl
 
 ## Cluster Mean Field Theory
 
-**Title**: Cluster Mean Field Theory for Quantum Spin Models [(Poster)]()  
+**Title**: Cluster Mean Field Theory for Quantum Spin Models [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/d91f0804e95f9cec1ae975ace3e6e77806935dbd/_data/TEMPORARY/Arka_CMFT_poster%20(2)%20-%20Arka%20Dutta.pdf)  
 **Name**: Arka Dutta  (MS18013)  
 **Local Thesis Guide**: Dr. Sanjeev Kumar  
 
@@ -540,7 +540,7 @@ We move into insurance modeling as a central example in the thesis. We focus onl
 
 ## Condensed Matter Theory
 
-**Title**: Magneto-transport in the presence of spin orbit coupling [(Poster)]()  
+**Title**: Magneto-transport in the presence of spin orbit coupling [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/d91f0804e95f9cec1ae975ace3e6e77806935dbd/_data/TEMPORARY/Poster_presentation-1%20-%20Sourabh.pdf)  
 **Name**: Sourabh (MS18037)  
 **Local Thesis Guide**: Dr. Sanjeev Kumar
 
@@ -567,7 +567,7 @@ We move into insurance modeling as a central example in the thesis. We focus onl
 
 ## Condensed Matter Physics
 
-**Title**: Interacting bosons on an optical lattice [(Poster)]()  
+**Title**: Interacting bosons on an optical lattice  
 **Name**: Akshay Shankar (MS18117)  
 **Local Thesis Guide**: Dr. Sanjeev Kumar  
 **External Guide**: Prof. Dr. Tilman Pfau
@@ -612,7 +612,7 @@ Otherwise, googling any of the fancy-schmancy words you see above will lead you 
 
 ## Monte Carlo of Quantum phase transitions
 
-**Title**: Monte Carlo studies of quantum phase transitions [(Poster)]()  
+**Title**: Monte Carlo studies of quantum phase transitions [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/d91f0804e95f9cec1ae975ace3e6e77806935dbd/_data/TEMPORARY/Kunal_MS18148_Poster%20-%20Kunal%20Verma.png)  
 **Name**: Kunal Verma (MS18148)   
 **Local Thesis Guide**: Prof. Sanjeev Kumar    
 **External Guide**: Prof. Vijay B. Shenoy  
