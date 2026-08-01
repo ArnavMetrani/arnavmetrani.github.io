@@ -5,8 +5,7 @@ title: "MS18 Thesis Survey"
 
 The physics club of IISER-M had conducted a thesis survey for the MS18 batch, which was then deleted from the site under mysterious circumstances. For timebeing I have listed it here for others to view. 
 
-The thesis survey enquired some basic information about the work conducted by the then-outgoing batch. The information listed below is presented as it was provided by the participants, without any changes (grammar, et cetra). The submitted posters will be uploaded eventually.
-
+The information displayed below is presented as it was provided by the participants, without any changes (grammar, et cetra).
 # Thesis survey results
 
 Use the quicklinks below:
