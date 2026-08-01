@@ -77,7 +77,7 @@ Use the quicklinks below:
 # Astrophysics and Cosmology
 
 ## Cosmological Data Analysis
-**Title**: Cosmological Data Fitting [(Poster)]()  
+**Title**: Cosmological Data Fitting [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/c2619428c17be4738e514da857779ae715b1c609/_data/TEMPORARY/PRJ502_Poster%20-%20Aditya%20Pawan%20Saikri.pdf)  
 **Name**: Aditya Pawan Saikia (MS18208)  
 **Local Thesis Guide**: Dr. Harvinder Kaur Jassal
 
@@ -118,7 +118,7 @@ Use the quicklinks below:
 
 ## Exoplanets
 
-**Title**: To mitigate the effect of moonlight contamination in spectroscopic searches for extrasolar planets [(Poster)]()  
+**Title**: To mitigate the effect of moonlight contamination in spectroscopic searches for extrasolar planets [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/c2619428c17be4738e514da857779ae715b1c609/_data/TEMPORARY/EPRV5-Poster-Komal%20(3)%20-%20Komal%20Bali.pdf)  
 **Name**: Komal Bali (MS18192)    
 **Local Thesis Guide**: Prof. Jasjeet Singh Bagla   
 **External Guide**: Dr. Joe Philip Ninan
@@ -146,7 +146,7 @@ Use the quicklinks below:
 
 ## Galactic Disk Morphology
 
-**Title**: Understanding the Galactic disk morphology using Open Star Clusters [(Poster)]()  
+**Title**: Understanding the Galactic disk morphology using Open Star Clusters [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/c2619428c17be4738e514da857779ae715b1c609/_data/TEMPORARY/Poster%20Draft%20-%20Sagar%20Malhotra.pdf)  
 **Name**: Sagar Malhotra (MS18091)  
 **Local Thesis Guide**: Dr. Pankaj Kushwaha  
 **External Guide**: Dr. Yogesh C. Joshi (ARIES, Nainital)  
@@ -161,7 +161,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 
 ## Galactic Dynamics
 
-**Title**: Simulation studies of Black Holes (BH) originating in Globular clusters [(Poster)]()  
+**Title**: Simulation studies of Black Holes (BH) originating in Globular clusters [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/056505d3e9cb2d18e8fd06f97f64a2e78de76301/_data/TEMPORARY/PRJ50X_Thesis_Poster_A1__Portrait__MS18006%20(1)%20-%20Shiv%20Shankar%20Singh.pdf)  
 **Name**: Shiv Shankar Singh (MS18006)  
 **Local Thesis Guide**: Prof. Jasjeet Singh Bagla  
 
@@ -203,7 +203,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 
 ## Bioinformatics
 
-**Title**: Protein Residue Contact Network Analysis to understand function of Single Residue Mutations [(Poster)]()  
+**Title**: Protein Residue Contact Network Analysis to understand function of Single Residue Mutations [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/64b6558468d03b8451515f164ead569158425dd0/_data/TEMPORARY/final_print_poster_ms180067%20-%20Dhanasekhar%20Vk.pdf)  
 **Name**: Dhanasekhar V.K (MS18067)  
 **Local Thesis Guide**: Dr. Sashi Bhushan Pandit  
 **External Guide**: Prof. Somadatta Sinha
@@ -226,7 +226,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 ---
 
 ## Computational Soft Matter
-**Title**: Understanding collagen assembly [(Poster)]()  
+**Title**: Understanding collagen assembly [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/c2619428c17be4738e514da857779ae715b1c609/_data/TEMPORARY/Copy%20of%20Copy%20of%20understanding%20collagen%20assembly%20poster%20-%20October%2019%2C%2010_01%20AM%20(1)%20-%20Smriti%20Chhibber.pdf)  
 **Name**: Smriti Chhibber (MS18142)  
 **Local Thesis Guide**: Dr. Tripta Bhatia  
 **External Guide**: Dr. Andela Saric  
@@ -280,7 +280,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 
 ## Non-genetic intergenerational inheritance
 
-**Title**: Paternal exposure to early life adversity alters placental efficiency in offspring [(Poster)]()
+**Title**: Paternal exposure to early life adversity alters placental efficiency in offspring [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/056505d3e9cb2d18e8fd06f97f64a2e78de76301/_data/TEMPORARY/MS%20poster_8_4_23%20-%20Rattan%20Kaur.pdf)
 **Name**: Rattan (MS18146)  
 **Local Thesis Guide**: Dr. Sadhan Das  
 **External Guide**: Dr. Michelle Holland
@@ -291,7 +291,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 ---
 
 ## Population Genomics
-**Title**: Demographic history of European Arabis alpina [(Poster)]()   
+**Title**: Demographic history of European Arabis alpina [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/056505d3e9cb2d18e8fd06f97f64a2e78de76301/_data/TEMPORARY/poster_MS_thesis_revised_BT_4%20-%20Mehak.pdf)   
 **Name**: Mehak (MS18041)  
 **Local Thesis Guide**: Dr. N.G. Prasad  
 **External Guide**: Dr. Andrea Fulgione  
@@ -303,7 +303,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 
 ## Theoretical Evolutionary Biology
 
-**Title**: When will females evolve ornaments to attract males for mating? [(Poster)]()  
+**Title**: When will females evolve ornaments to attract males for mating? [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/c2619428c17be4738e514da857779ae715b1c609/_data/TEMPORARY/Thesis%20Poster%20Kartikey%208.4%20copy%20-%20Kartikey%20Awasthi.pdf)  
 **Name**: Kartikey Awasthi (MS18203)  
 **Local Thesis Guide**: Dr. Manjari Jain  
 **External Guide**: Dr. Jonathan Henshaw
@@ -317,7 +317,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 ---
 
 ## Three Dimensional Bioprinting and Microfluidics
-**Title**: Developing a device for high throughput fabrication of spheroids using interconnecting chambers in a dynamic flow [(Poster)]()  
+**Title**: Developing a device for high throughput fabrication of spheroids using interconnecting chambers in a dynamic flow [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/056505d3e9cb2d18e8fd06f97f64a2e78de76301/_data/TEMPORARY/Research-Poster_Shweta%20-%20Shweta%20Saini.pdf)  
 **Name**: Shweta Saini (MS18143)  
 **Local Thesis Guide**: Dr. Jogender Singh  
 **External Guide**: Prof. Ibrahim Tarik Ozbolat
@@ -346,7 +346,7 @@ One can go through the papers by the GaiaUB group at ICCUB, University of Barcel
 
 ## Organic Synthesis
 
-**Title**: Cyclopropenium Ion catalysted 1,6- Conjugate Addition of Indoles to p- Quinone Methides [(Poster)]()  
+**Title**: Cyclopropenium Ion catalysted 1,6- Conjugate Addition of Indoles to p- Quinone Methides [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/056505d3e9cb2d18e8fd06f97f64a2e78de76301/_data/TEMPORARY/Poster%20Arkopal%20(1)%20(8)%20-%20Arkopal%20Nandy.pptx)  
 **Name**: Arkopal Nandy (MS18074)  
 **Local Thesis Guide**: Dr. R. Vijaya Anand  
 [To start of project↑](#organic-synthesis)  
@@ -425,7 +425,7 @@ We move into insurance modeling as a central example in the thesis. We focus onl
 
 ## Knot theory and Low-dimensional Topology
 
-**Title**: A Combinatorial approach to Knot theory and its applications [(Poster)]()  
+**Title**: A Combinatorial approach to Knot theory and its applications [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/c2619428c17be4738e514da857779ae715b1c609/_data/TEMPORARY/Poster_Presentation_MS_thesis_IISER%20-%20Bhavneet%20Singh%20Saini.pdf)  
 **Name**: Bhavneet Singh Saini (MS18069)  
 **Local Thesis Guide**: Dr. Shane D'Mello
 
@@ -474,7 +474,7 @@ We move into insurance modeling as a central example in the thesis. We focus onl
 
 ## Probability (Polya urns and Preferential attachment)
 
-**Title**: Properties of Preferential Attachment Trees with constant fitness [(Poster)]()   
+**Title**: Properties of Preferential Attachment Trees with constant fitness [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/056505d3e9cb2d18e8fd06f97f64a2e78de76301/_data/TEMPORARY/Poster%20ms%20-%20Rimjhim%20Goel.pdf)   
 **Name**: Rimjhim Goel (MS18133)  
 **Local Thesis Guide**: Dr. Neeraja Sahasrabudhe  
 
@@ -503,7 +503,7 @@ We move into insurance modeling as a central example in the thesis. We focus onl
 
 ## Belle II Data Analysis via CNN
 
-**Title**: Recovery of merged $π^0$ from the ECL detector of the Belle II experiment [(Poster)]()  
+**Title**: Recovery of merged $π^0$ from the ECL detector of the Belle II experiment [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/056505d3e9cb2d18e8fd06f97f64a2e78de76301/_data/TEMPORARY/MS18102_Poster%20-%20Naveen%20Kumar%20Baghel.pdf)  
 **Name**: Naveen Kumar Baghel (MS18102)  
 **Local Thesis Guide**: Dr. Vishal Bhardwaj  
 
@@ -600,7 +600,7 @@ Otherwise, googling any of the fancy-schmancy words you see above will lead you 
 
 ## Disordered Quantum Systems
 
-**Title**: Non-equilibrium transport in quantum chains under quasiperiodic potentials [(Poster)]()
+**Title**: Non-equilibrium transport in quantum chains under quasiperiodic potentials [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/056505d3e9cb2d18e8fd06f97f64a2e78de76301/_data/TEMPORARY/Sourav_MS18084_Lab_Poster%20-%20Sourav%20S.pdf)
 **Name**: Sourav S (MS18084)  
 **Local Thesis Guide**: Dr. Sanjeev Kumar  
 **External Guide**:  Dr. Devendra Singh Bhakuni (Ben Gurion University, Israel and ICTP, Italy) and  Dr. Auditya Sharma (IISER Bhopal)
@@ -679,7 +679,7 @@ else contact me directly.
 
 ## Particle Physics
 
-**Title**: Modern Methods of Amplitude Calculation [(Poster)]()  
+**Title**: Modern Methods of Amplitude Calculation [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/c2619428c17be4738e514da857779ae715b1c609/_data/TEMPORARY/Poster__(MS18066)%20-%20Dishant%20Sisodia.pdf)  
 **Name**: Dishant Sisodia (MS18066)  
 **Local Thesis Guide**: Dr. Ambresh Shivaji
 
@@ -693,7 +693,7 @@ else contact me directly.
 
 ## Quantum Field Theory
 
-**Title**: Holographic Entanglement Entropy at Spatial Infinity [(Poster)]()  
+**Title**: Holographic Entanglement Entropy at Spatial Infinity [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/c2619428c17be4738e514da857779ae715b1c609/_data/TEMPORARY/Poster__Portrait_Format___with_acknowledgement_%20-%20Abir%20Ghosh.pdf)  
 **Name**: Abir Ghosh (MS18022)  
 **Local Thesis Guide**: K. P. Yogendran  
 **External Guide**: Chethan Krishnan
@@ -723,7 +723,7 @@ else contact me directly.
 
 ## Entanglement Generation
 
-**Title**: Entanglement Generation via Locally Mediating Interactions [(Poster)]()  
+**Title**: Entanglement Generation via Locally Mediating Interactions [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/056505d3e9cb2d18e8fd06f97f64a2e78de76301/_data/TEMPORARY/Poster_presentation%20(8)%20-%20Suraj%20Dey.pdf)  
 **Name**: Suroj Dey (MS18221)  
 **Local Thesis Guide**: Dr. Kinjalk Lochan  
 **External Guide**: Prof. Shankaranarayanan
@@ -747,7 +747,7 @@ else contact me directly.
 [To main section↑](#quantum-physics-and-information)
 
 ## Quantum Information and Quantum Physics
-**Title**: Emergence of classicality in resource theory of coherence [(Poster)]()  
+**Title**: Emergence of classicality in resource theory of coherence [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/056505d3e9cb2d18e8fd06f97f64a2e78de76301/_data/TEMPORARY/Poster-MS-3%20-%20Aabhas%20Gulati.pdf)  
 **Name**: Aabhas Gulati (MS18151)  
 **Local Thesis Guide**: Dr. Manabendra Nath Bera
 
@@ -758,7 +758,7 @@ else contact me directly.
 
 ## Quantum Information and Optics
 
-**Title**: Optimising Bell CHSH Violations in Continuous Systems [(Poster)]()  
+**Title**: Optimising Bell CHSH Violations in Continuous Systems [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/056505d3e9cb2d18e8fd06f97f64a2e78de76301/_data/TEMPORARY/Current_Poster-5%20-%20Ayushman%20Srivastava.pdf)  
 **Name**: Ayushman Srivastava (MS18056)  
 **Local Thesis Guide**: Sandeep Goyal
 
@@ -769,7 +769,7 @@ else contact me directly.
 
 ## Quantum Walks
 
-**Title**: Quantum Walks and Quantum Resetting [(Poster)]()  
+**Title**: Quantum Walks and Quantum Resetting [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/056505d3e9cb2d18e8fd06f97f64a2e78de76301/_data/TEMPORARY/MastersPoster-1%20-%20Dhruva%20Sambrani.pdf)  
 **Name**: Dhruva Sambrani (MS18163)  
 **Local Thesis Guide**: Manabendra Nath Bera
 
@@ -783,7 +783,7 @@ else contact me directly.
 
 ## Topological Quantum Computation
 
-**Title**: Topological Fault Tolerant Measurement Based Quantum Computation [(Poster)]()  
+**Title**: Topological Fault Tolerant Measurement Based Quantum Computation [(Poster)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/056505d3e9cb2d18e8fd06f97f64a2e78de76301/_data/TEMPORARY/Topologically%20fault-tolerant%20measurement%20based%20quantum%20computation%20-%20Rutvik%20Rameshbhai%20Kayastha.pdf)  
 **Name**: Rutvik Kayastha (MS18152)  
 **Local Thesis Guide**: Sandeep Goyal
 
